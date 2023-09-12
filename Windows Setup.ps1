@@ -34,7 +34,6 @@ winget install -e --id beekeeper-studio.beekeeper-studio --accept-package-agreem
 winget install -e --id Microsoft.WindowsTerminal --accept-package-agreements
 winget install -e --id Microsoft.SQLServerManagementStudio --accept-package-agreements
 winget install -e --id Postman.Postman --accept-package-agreements
-winget install -e --id beekeeper-studio.beekeeper-studio --accept-package-agreements
 
 ### Install misc applications and tools
 winget install -e --id Logitech.GHUB --accept-package-agreements
