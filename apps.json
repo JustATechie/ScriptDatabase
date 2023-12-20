@@ -1,0 +1,14 @@
+{
+  "wingetApps": [
+    {"id": "JetBrains.Toolbox", "Name": "Jetbrains Toolbox"},
+    {"id": "beekeeper-studio.beekeeper-studio", "Name": "Beekeeper Studio"},
+    {"id": "Postman.Postman", "Name":  "Postman"},
+    {"id": "Logitech.GHUB", "Name": "Logitech GHub"},
+    {"id": "AgileBits.1Password", "Name": "1Password"},
+    {"id": "File-New-Project.EarTrumpet", "Name": "Ear Trumpet"}
+  ],
+  "msstoreApps": [
+    {"id": "9PFHDD62MXS1", "name": "Apple Music"},
+    {"id":  "XP9CDQW6ML4NQN", "name": "Plex Media Player"}
+  ]
+}
